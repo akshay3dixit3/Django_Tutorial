@@ -1,0 +1,1 @@
+"# Django_Tutorial"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/akshay3dixit3/Django_Tutorial.gitgit push -u origin master

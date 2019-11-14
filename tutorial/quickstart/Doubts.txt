@@ -1,0 +1,11 @@
+--------------------------------------------------------DOUBTS------------------------------------------------------------------------
+serializers.HyperlinkedModelSerializer - 
+Validators
+Dealing with nested objects
+WorkGroupViewSet and class - What are they used for
+detail_route
+decorators- defined in our code? Location.
+What is workgroup?
+Meta Class design isnights.
+class GroupViewSet
+retrieve_workgroup_data = super(WorkGroupViewSet, self).retrieve(*args, **kwargs)s

@@ -1,0 +1,6 @@
+--------------------------------------------------------DOUBTS------------------------------------------------------------------------
+serializers.HyperlinkedModelSerializer - 
+Validators
+Dealing with nested objects
+WorkGroupViewSet and class - What are they used for
+detail_route
